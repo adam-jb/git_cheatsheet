@@ -1,3 +1,6 @@
+
+## Some useful git commands
+
 git clone [repo url] 
 
 git branch –a # list all branches 
